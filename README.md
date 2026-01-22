@@ -4,7 +4,7 @@ Arty S7 FPGA FM Synthesizer
 Project Structure
 * /hdl: SystemVerilog source files (DDS, UART, I2S, Top Level).
 * /scripts: Tcl build scripts and Python visualizer.
-* /xdc: Hardware constraints for the Arty S7-50.
+* /constraints: Hardware constraints for the Arty S7-50.
 * /docs: Hardware Design Document and Roadmap.
 
 Features
